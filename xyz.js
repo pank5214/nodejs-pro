@@ -1,0 +1,1 @@
+console.log("Start learning require method!");
